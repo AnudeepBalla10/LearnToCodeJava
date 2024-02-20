@@ -1,5 +1,8 @@
 # Welcome to "Intro To Java Coding"! ![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
 
+![Try it yourself first](https://img.shields.io/badge/Try_it_yourself_first-800000?style=for-the-badge)
+
+
 This repository is designed for beginners and intermediate programmers who are looking to improve their Java coding skills. Here, you'll find a curated list of coding problems, ranging from basic to advanced levels, each accompanied by detailed solutions and pattern explanations.
 
 ## What You'll Find:
