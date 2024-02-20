@@ -1,6 +1,6 @@
 # Welcome to "Intro To Java Coding"! ![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
 
-![Try it yourself first](https://img.shields.io/badge/Try_it_yourself_first-800000?style=for-the-badge)
+
 
 
 This repository is designed for beginners and intermediate programmers who are looking to improve their Java coding skills. Here, you'll find a curated list of coding problems, ranging from basic to advanced levels, each accompanied by detailed solutions and pattern explanations.
@@ -23,9 +23,11 @@ This repository is designed for beginners and intermediate programmers who are l
 * Review the Solution: Compare your approach with the provided solution and understand the reasoning behind different strategies.
 * Practice Regularly: Consistency is key. Try to solve at least one problem a day to steadily improve your skills.
 
-Let's Code and Grow Together!
+Let's Code and Grow Together! 
+
+![Try it yourself first](https://img.shields.io/badge/Try_it_yourself_first-800000?style=for-the-badge)
 
 # Problems
 
-[EASY](https://github.com/AnudeepBalla10/LearnToCodeJava/tree/main/Problems%5BEasy%5D)
+* [EASY](https://github.com/AnudeepBalla10/LearnToCodeJava/tree/main/Problems%5BEasy%5D)
 
