@@ -22,3 +22,7 @@ This repository is designed for beginners and intermediate programmers who are l
 
 Let's Code and Grow Together!
 
+# Problems
+
+[EASY](https://github.com/AnudeepBalla10/LearnToCodeJava/tree/main/Problems%5BEasy%5D)
+
