@@ -7,13 +7,13 @@ This repository is designed for beginners and intermediate programmers who are l
 
 ## What You'll Find:
 
-### Coding Problems: A variety of problems covering fundamental concepts to more complex algorithms, categorized by difficulty level (Easy, Medium, Hard).
+* Coding Problems: A variety of problems covering fundamental concepts to more complex algorithms, categorized by difficulty level (Easy, Medium, Hard).
 
-### Approaches & Solutions: Step-by-step explanations of different approaches to tackle each problem, along with optimized solutions in Java.
+* Approaches & Solutions: Step-by-step explanations of different approaches to tackle each problem, along with optimized solutions in Java.
 
-### Pattern Recognition: Insights into recognizing common patterns in coding problems, which will help you develop efficient problem-solving strategies.
+* Pattern Recognition: Insights into recognizing common patterns in coding problems, which will help you develop efficient problem-solving strategies.
 
-### Best Practices: Tips and tricks for writing clean, efficient, and maintainable Java code.
+*  Best Practices: Tips and tricks for writing clean, efficient, and maintainable Java code.
 
 ## Getting Started:
 
